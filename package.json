@@ -1,0 +1,19 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "text",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "framework",
+    "pruebas"
+  ],
+  "author": "noyka",
+  "license": "ISC"
+  
+  }
+
